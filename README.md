@@ -60,25 +60,15 @@ This dashboard enables HR professionals and business stakeholders to make data-d
 * Data Visualization
 
 ---
-
 ## 📂 Project Structure
 
 ```text
 HR-Analytics-Dashboard/
 │
-├── Dashboard/
-│   └── HR Analytics dashboard.pbix
-│
-├── Dataset/
-│   └── HR_Analytics data.csv
-│
-├── Images/
-│   └── Dashboard.png
-│
-├── README.md
-├── LICENSE
-└── .gitignore
-```
+├── Dashboard.png
+├── HR Analytics dashboard.pbix
+├── HR_Analytics data.csv
+└── README.md
 
 ---
 
@@ -118,8 +108,6 @@ The dataset contains employee information such as:
 
 
 
-*Interactive HR Analytics Dashboard developed using Microsoft Power BI.*
-
 ## 💡 Key Insights
 
 * Identified departments with the highest attrition rates.
@@ -143,18 +131,11 @@ The dataset contains employee information such as:
 
 ## 📷 Dashboard Preview
 
-![HR Analytics Dashboard](Images/Dashboard.png)
+![HR Analytics Dashboard](Dashboard.png)
 
 *Interactive HR Analytics Dashboard developed using Microsoft Power BI.*
 
-Example:
 
-```
-Images/
-├── Dashboard.png
-├── Attrition.png
-└── Overview.png
-```
 
 ---
 
