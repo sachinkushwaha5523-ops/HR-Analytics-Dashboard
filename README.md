@@ -116,6 +116,12 @@ The dataset contains employee information such as:
 
 ---
 
+## 📷 Dashboard Preview
+
+![HR Analytics Dashboard](Images/Dashboard.png)
+
+*Interactive HR Analytics Dashboard developed using Microsoft Power BI.*
+
 ## 💡 Key Insights
 
 * Identified departments with the highest attrition rates.
