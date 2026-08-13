@@ -116,9 +116,7 @@ The dataset contains employee information such as:
 
 ---
 
-## 📷 Dashboard Preview
 
-![HR Analytics Dashboard](Images/Dashboard.png)
 
 *Interactive HR Analytics Dashboard developed using Microsoft Power BI.*
 
@@ -146,6 +144,8 @@ The dataset contains employee information such as:
 ## 📷 Dashboard Preview
 
 ![HR Analytics Dashboard](Images/Dashboard.png)
+
+*Interactive HR Analytics Dashboard developed using Microsoft Power BI.*
 
 Example:
 
